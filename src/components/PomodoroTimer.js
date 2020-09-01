@@ -64,7 +64,7 @@ const PomodoroTimer = () => {
 
   return (
   <div className="pomodoro">
-    <h1 className="w3-center pageHeader">My Pomodo Timer</h1>
+    <h1 className="w3-center pageHeader">My Pomodoro Timer</h1>
     <h1 className="pomodoroMessage w3-center" id="pomodoroGreeting">{title}</h1>
 
     <div className="timer">

@@ -3,7 +3,7 @@ A time management and personal productivity tool implemented as a React.js web a
 
 Live **Site Demo** ~ [Pomodoro Productivity Timer App](http://pomodorotimer.ryanhunter.ca/)
 
-![Pomodoro Productivity Timer App](http://ryanhunter.ca/images/portfolio/pomodorotimer.png)
+![Pomodoro Productivity Timer App](http://ryanhunter.ca/images/portfolio/pomodorotimer1.png)
 
 
 ### Related *BUT* separate React.js projects
@@ -38,7 +38,7 @@ This project is licensed under the terms of the **MIT** license.
 
 ## Screenshots
 
-![Pomodoro Productivity Timer App # 1](http://ryanhunter.ca/images/portfolio/pomodorotimer.png)
+![Pomodoro Productivity Timer App # 1](http://ryanhunter.ca/images/portfolio/pomodorotimer1.png)
 
 ![Pomodoro Productivity Timer App # 2](http://ryanhunter.ca/images/portfolio/pomodorotimer2.png)
 
